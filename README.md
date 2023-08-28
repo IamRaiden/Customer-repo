@@ -4,5 +4,9 @@ So this is basically a java development project which is done using servlets and
 
 The front-end part still need to be done
 
-Also, I have used intelij ide for this whole project where u have to a new project using maven and for lang select java 
+Also, I have used IntelliJ ide for this whole project where u have to a new project using maven and for lang select java 
 So what maven does is  basically, provide u with the web application environment.
+
+sample change to check commit
+
+
